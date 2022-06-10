@@ -60,12 +60,12 @@ Please let the facilitator know which operating system you use and version prior
  
 Please install the following software:
  
-###MAC:
+### MAC:
 - [BBEdit](https://www.barebones.com/products/bbedit/)
 - Git -  install Git for Mac by downloading and running the most recent "mavericks" installer from [this list](http://sourceforge.net/projects/git-osx-installer/files/). Because this installer is not signed by the developer, you may have to right click (control click) on the .pkg file, click Open, and click Open on the pop up window. After installing Git, there will not be anything in your /Applications folder, as Git is a command line program.
 Please see the [tutorial video](https://youtu.be/9LQhwETCdwY).
 
-###Windows:
+### Windows:
 - [Notepad++](https://notepad-plus-plus.org/)
 - The Bash Shell – This will provide you with both Git and Bash in the Git Bash program.
 	1. Download the Git for Windows [installer](https://gitforwindows.org/).
