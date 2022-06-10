@@ -45,8 +45,11 @@ We will use the following resources:
 ## Workshop Facilitators
 
 Dr. Dan Barshis, Old Dominion University
+
 Dr. Wirawan Purwanto, Old Dominion University
+
 Dr. Eric Garcia, Old Dominion University
+
 Mr. Ivan R. Lopez, Old Dominion University
 
 ***
