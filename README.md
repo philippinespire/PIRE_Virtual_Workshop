@@ -62,13 +62,13 @@ Please install the following software:
  
 #### MAC:
 - [BBEdit](https://www.barebones.com/products/bbedit/)
-- Git -  install Git for Mac by downloading and running the most recent "mavericks" installer from [this list](http://sourceforge.net/projects/git-osx-installer/files/). Because this installer is not signed by the developer, you may have to right click (control click) on the .pkg file, click Open, and click Open on the pop up window. After installing Git, there will not be anything in your /Applications folder, as Git is a command line program.
+- Git - (these instructions are from Software Carpentry) install Git for Mac by downloading and running the most recent "mavericks" installer from [this list](http://sourceforge.net/projects/git-osx-installer/files/). Because this installer is not signed by the developer, you may have to right click (control click) on the .pkg file, click Open, and click Open on the pop up window. After installing Git, there will not be anything in your /Applications folder, as Git is a command line program.
 
-Please see the [tutorial video](https://youtu.be/9LQhwETCdwY).
+Please see the [tutorial video](https://youtu.be/9LQhwETCdwY) from Software Carpentry.
 
 #### Windows:
 - [Notepad++](https://notepad-plus-plus.org/)
-- The Bash Shell – This will provide you with both Git and Bash in the Git Bash program.
+- The Bash Shell – (these instructions are from Software Carpentry) this will provide you with both Git and Bash in the Git Bash program.
 	1. Download the Git for Windows [installer](https://gitforwindows.org/).
 	2. Run the installer and follow the steps below:
 		1. Click on "Next" four times (two times if you've previously installed Git). You don't need to change anything in the Information, location, components, and start menu screens.
@@ -91,7 +91,7 @@ Please see the [tutorial video](https://youtu.be/9LQhwETCdwY).
 		3. Press Enter, you should see SUCCESS: Specified value was saved.
 		4. Quit command prompt by typing exit then pressing Enter
 
-Please see the [tutorial video](https://youtu.be/339AEqk9c-8).
+Please see the [tutorial video](https://youtu.be/339AEqk9c-8) from Software Carpentry.
 
 ***
 
