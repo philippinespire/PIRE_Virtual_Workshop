@@ -44,7 +44,7 @@ We will use the following resources:
 
 ## Workshop Facilitators
 
-Dr. Dan Barshis, Old Dominion University
+[Dr. Dan Barshis, Old Dominion University](https://sites.wp.odu.edu/barshis-lab/)
 
 Dr. Wirawan Purwanto, Old Dominion University
 
