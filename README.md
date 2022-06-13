@@ -1,4 +1,4 @@
-# PIRE_Vitual_Workshop
+# PIRE_Virtual_Workshop
 
 The purpose of this repository is to instruct biologists in Regular expressions, basic UNIX, how to interface with the Old Dominion University High Performance Computing Cluster, how to execute SLURM commands and how to use Git and GitHub.
 
