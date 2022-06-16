@@ -36,7 +36,7 @@ We will use the following resources:
 
 [Software Carpentry for the Unix Shell](https://swcarpentry.github.io/shell-novice/)
 
-[Software Carpentry for the Git](https://swcarpentry.github.io/git-novice/)
+[Software Carpentry for Git](https://swcarpentry.github.io/git-novice/)
 
 [Code Refinery for Git](https://coderefinery.github.io/git-intro/)
 

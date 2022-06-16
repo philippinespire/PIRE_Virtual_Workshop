@@ -1,0 +1,6 @@
+Helpful shell commands
+Because Ivan told me to do this
+_____________________
+
+[list your tips here]
+> adds data to a file
