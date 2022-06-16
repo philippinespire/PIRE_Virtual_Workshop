@@ -1,3 +1,4 @@
 My name is Ivan.  It has an accent on the a.
-I am a Mrine Biologist.
-I likr studying fish genomes.
+I am a Marine Biologist.
+I like studying fish genomes.
+I am an actual scientist and this is an example file for a workshop.
