@@ -1,2 +1,4 @@
-*.dat
+#This file tells git to ignore specific files listed below
+*.dat # ignore all data files
+!final.dat # except final.data
 results/

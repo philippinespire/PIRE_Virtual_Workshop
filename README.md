@@ -95,3 +95,18 @@ Please see the [tutorial video](https://youtu.be/339AEqk9c-8) from Software Carp
 
 ***
 
+> This is a blockquote.
+
+`This code block is for single commands`
+
+```sh
+This is a code block
+for multiple lines of code such as a script to pull and push to GitHub
+
+#!/bin/bash -l
+
+git pull
+git add ./*
+git commit -m "$1"
+git push -u origin main
+```
