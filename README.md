@@ -14,15 +14,15 @@ Participation in the workshop is by invitation only.  Please contact your host o
 
 ## Schedule
 
-The workshop will be from Monday to Thursday from 9:00 AM (EDT) to 5:00 PM (EDT):
-Day 1 - Computer set up and Regular expressions (Mon)
-Day 2 - Intro to UNIX shell (Tue)
-Day 3 - Intro to HPC cluster (Wed)
-Day 4 - Intro to Git and Github (Thur)
+The workshop has concluded.  Topics covered were:
+Day 1 - Computer set up and Regular expressions
+Day 2 - Intro to UNIX shell
+Day 3 - Intro to HPC cluster
+Day 4 - Intro to Git and Github
 
-The Schedule for the workshop can be viewed [here](https://docs.google.com/spreadsheets/d/1VwhTJZql1L0DfKxAIalrXDcO3_hNNWzep8dWDNKu4kw/edit?usp=sharing)
+The Schedule for the workshop can be viewed [here](https://docs.google.com/spreadsheets/d/1VwhTJZql1L0DfKxAIalrXDcO3_hNNWzep8dWDNKu4kw/edit?usp=sharing).
 
-All sessions will be delivered via zoom.  Please contact your host or mentor if you did not receive a zoom link.
+All sessions were delivered via zoom.  These sessions were recorded and can be viewed [here](https://odumedia.mediaspace.kaltura.com/playlist/dedicated/1_c0ni7uxi/).
 
 ***
 
